@@ -1,1 +1,1 @@
-# whisper
+# Whisper Chat Application
