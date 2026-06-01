@@ -1,5 +1,4 @@
 import mongoose, { Schema, type Document } from "mongoose";
-import { createPrinter } from "typescript";
 
 export interface IMessage extends Document {
   chat: mongoose.Types.ObjectId;
